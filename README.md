@@ -1,43 +1,31 @@
-# Python Exercises & Projects
+Python Exercises & Projects
+A repository with my Python studies and projects, built during my career transition from sales/commercial to software development.
 
-Repositório com meus estudos e projetos em Python, desenvolvidos durante minha transição de carreira da área comercial/vendas para desenvolvimento de software.
+About
+I'm transitioning into tech, with a focus on backend development. I'm currently studying Python through the Curso em Vídeo program (Gustavo Guanabara) and taking part in Prepara Portugal, a program covering AI and cybersecurity.
 
-## Sobre
+This repository documents my progress: starting with basic logic exercises and growing into small projects with practical application.
 
-Estou migrando para a área de tecnologia, com foco em backend. Atualmente estudo Python pelo curso **Curso em Vídeo** (Gustavo Guanabara) e participo do programa **Prepara Portugal**, com módulos de IA e cibersegurança.
+Featured Projects
+Jokenpô (Rock-Paper-Scissors)
+A rock-paper-scissors game against the computer, using the random module and conditional logic to determine the winner.
 
-Esse repositório documenta minha evolução: começou com exercícios básicos de lógica e foi crescendo para pequenos projetos com aplicação prática.
+Par ou Ímpar (Odd or Even)
+A classic odd-or-even guessing game, with user input validation and conditional logic.
 
-##  Estrutura
-##  Projetos em destaque
+Tabuada (Multiplication Table)
+Generates a multiplication table based on a number entered by the user, using loops.
 
-### Jokenpô
-Jogo de pedra-papel-tesoura contra o computador, com uso do módulo `random` e estrutura condicional para definir o vencedor.
-
-### Par ou Ímpar
-Jogo clássico de par ou ímpar, com validação de entrada do usuário e lógica condicional.
-
-### Tabuada
-Geração de tabuada de multiplicação a partir de um número informado pelo usuário, usando loops.
-
-##  Fundamentos praticados
-
-- Estruturas de repetição (`while`, `for`) e controle de fluxo (`break`, `continue`)
-- Manipulação de strings (`.strip()`, `.upper()`, f-strings, formatação)
-- Tuplas: construção, slicing, `.index()`, `sorted()`, `enumerate()`
-- Listas e o operador `in`
-- Busca de valores máximo/mínimo (com funções built-in e lógica manual)
-- Validação robusta de input do usuário
-
-##  Tecnologias
-
-- Python 3.14
-- PyCharm
-
-## Próximos passos
-
-- Adicionar testes automatizados aos projetos
-- Explorar projetos com Python + frontend (HTML5/CSS/JS)
-- Aprofundar em estruturas de dados e algoritmos
-
-
+Fundamentals Practiced
+Loop structures (while, for) and flow control (break, continue)
+String manipulation (.strip(), .upper(), f-strings, formatting)
+Tuples: creation, slicing, .index(), sorted(), enumerate()
+Lists and the in operator
+Finding max/min values (using both built-in functions and manual logic)
+Robust user input validation
+Tech Stack
+Python 3.14
+PyCharm
+Next Steps
+Explore Python + frontend projects (HTML5/CSS/JS)
+Deepen knowledge of data structures and algorithms
