@@ -6,10 +6,12 @@ for c in range (1,8):
         pares.append(num)
     else:
         impares.append(num)
-print('--'*20)
+print('--'*35)
 print('Os valores pares digitados foram: ', end='')
+pares.sort()
 print(pares)
 print('Os valores impares digitados foram: ', end='')
+impares.sort()
 print(impares)
 print('--'*35)
 # num = [[],[]]
